@@ -15,7 +15,17 @@
    </svg>),
     }
   ]
-
+  export const testMenu = [
+    {
+      title: "Dashboard",
+      links: [
+        {
+          name: "Dashboard",
+          icon: <FiShoppingBag />,
+        },
+      ],
+    },
+  ]
   export const dashMenu = [
     {
       title: "Dashboard",
